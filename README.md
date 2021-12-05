@@ -1,6 +1,6 @@
 # We are very sorry to let you see this page
 
-**[中文](https://github.com/exthmui/error_page/blob/master/README_CN.MD) | English**
+**[中文](https://github.com/exthmui/error_page/blob/master/README_CN.md) | English**
 
 ![we are very sorry](error.png)
 
