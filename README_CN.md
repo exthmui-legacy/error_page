@@ -1,6 +1,8 @@
 # 很抱歉让你看到这个页面
 
-![](error.png)
+**中文｜[English](https://github.com/exthmui/error_page/blob/master/README.md)**
+
+![we are very sorry](error.png)
 
 
 
@@ -10,4 +12,6 @@
 
 我们正在努力重建网站和下载站点，具体何时我们还不清楚，但是您可以加入我们的用户QQ群776741012或者加入我们的Telegram频道
 
-https://t.me/exthm（中文Only）
+https://t.me/exthm
+
+（中文Only）
